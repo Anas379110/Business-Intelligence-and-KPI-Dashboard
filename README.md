@@ -1,21 +1,20 @@
-# تطبيق ويب للذكاء التجاري ومؤشرات الأداء
-**Business Intelligence & KPI Web Application** · التصنيف: ويب / تطبيق
+# Business Intelligence & KPI Web Application
+**Business Intelligence & KPI Web Application** · Category: Web / Application
 
-> هذا المشروع خاص بشركة/عميل محدد، والكود المصدري غير منشور.
 > Private client work — the source code is not public.
 
-## نبذة عن المشروع
-تطبيق BI مع لوحات KPI مخصصة وتقارير تلقائية.
+## Project overview
+A BI application with custom KPI dashboards and automated reports.
 
-## أبرز النقاط
-- Python FastAPI للحسابات التحليلية
-- تقارير PDF + Excel تلقائية عبر Celery
-- مخططات D3.js تفاعلية مع تصدير PNG/SVG/CSV
+## Highlights
+- Python FastAPI for analytical computations
+- Automated PDF + Excel reporting via Celery
+- Interactive D3.js charts with PNG/SVG/CSV export
 
-## الدور
-مطوّر ويب/تطبيقات: بناء تطبيق الويب من الواجهة حتى الخدمات الخلفية والتكاملات.
+## Role
+Web/Application developer: built the web application from the frontend through backend services and integrations.
 
-## التقنيات المستخدمة
+## Technologies used
 React, TypeScript, Python FastAPI, PostgreSQL, Chart.js, D3.js, Redis, Docker, Celery
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).

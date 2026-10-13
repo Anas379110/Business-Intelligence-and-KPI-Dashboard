@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — تطبيق ويب للذكاء التجاري ومؤشرات الأداء
+# 🛠️ Technologies used — Business Intelligence & KPI Web Application
 
 - React
 - TypeScript
